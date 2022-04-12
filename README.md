@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Typescript, React Native**
 
-- 👨‍💻 Portpolio [https://shamim-99728.web.app/](https://shamim-99728.web.app/)
+- 👨‍💻 Portfolio [https://shamim-99728.web.app/](https://shamim-99728.web.app/)
 
 - 💬 Ask me about **MERN, Es6**
 
