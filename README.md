@@ -9,23 +9,6 @@
 
 - 🌱 I’m currently learning **Typescript, React Native**
 
-- 👨‍💻 All of my projects are available at [https://shamim-99728.web.app/](https://shamim-99728.web.app/)
-
-- 💬 Ask me about **React, Node, MongoBD, MySql, Javascript Es6**
-
-- 📫 How to reach me **Shamimislam5091@gmail.com**
-
-- 📄 Know about my experiences [[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://shamim-99728.web.app/)
-<h1 align="center">Hi 👋, I'm Shamim islam</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif"/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shamimzz&label=Profile%20views&color=0e75b6&style=flat" alt="shamimzz" /> </p>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Typescript, React Native**
-
 - 👨‍💻 Portpolio [https://shamim-99728.web.app/](https://shamim-99728.web.app/)
 
 - 💬 Ask me about **MERN, Es6**
