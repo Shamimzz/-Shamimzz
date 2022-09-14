@@ -11,8 +11,6 @@
 
 - 👨‍💻 Portfolio [https://shamim-99728.web.app/](https://shamim-99728.web.app/)
 
-- 💬 Ask me about **MERN, Es6**
-
 - 📫 How to reach me **Shamimislam5091@gmail.com**
 
 - 📄 Know about my experiences [https://shorturl.ae/EMHGT](https://shorturl.ae/EMHGT)
