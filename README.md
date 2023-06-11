@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Shamimislam5091@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1A38n2NOqmQE97VCPpoSEuCZtgSlfR6hC/view?usp=sharing](https://drive.google.com/file/d/1A38n2NOqmQE97VCPpoSEuCZtgSlfR6hC/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1A38n2NOqmQE97VCPpoSEuCZtgSlfR6hC/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
