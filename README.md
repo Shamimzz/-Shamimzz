@@ -7,13 +7,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamimzz&label=Profile%20views&color=0e75b6&style=flat" alt="shamimzz" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript, React Native**
+- 🌱 I’m currently learning **Django, Web 3.0**
 
 - 👨‍💻 Portfolio [https://shamim-99728.web.app/](https://shamim-99728.web.app/)
 
 - 📫 How to reach me **Shamimislam5091@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.ae/EMHGT](https://shorturl.ae/EMHGT)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1A38n2NOqmQE97VCPpoSEuCZtgSlfR6hC/view?usp=sharing](https://drive.google.com/file/d/1A38n2NOqmQE97VCPpoSEuCZtgSlfR6hC/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
